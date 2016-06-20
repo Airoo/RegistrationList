@@ -179,7 +179,7 @@ public class FragmentRegistration extends Fragment {
 
         return v;
     }
-
+    //simple validation
     public final static boolean isValidName(String name) {
         if (name!=null) {
             return true;
